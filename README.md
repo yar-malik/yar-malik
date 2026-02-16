@@ -1,4 +1,4 @@
-# Hi, I'm Yar Malik 👋
+# Hi, I'm Yar(Asfandyar) Malik 👋
 
 🚀 AI Founder | 🇩🇪 Germany ↔ 🇦🇪 UAE  
 🤖 AI Systems Builder | Automation Architect | Vibe Coding | Vibe Selling | Vibe Marketing 
