@@ -1,136 +1,38 @@
-# Hi, I'm Yar(Asfandyar) Malik 👋
+# Hi, I'm Yar 👋
 
-🚀 AI Founder | 🇩🇪 Germany ↔ 🇦🇪 UAE  
-🤖 Vibe Coding | Vibe Selling | Vibe Marketing 
+🚀 AI Founder | Vibe Operator | Automation Architect  
 
-![AI](https://img.shields.io/badge/AI-Builder-black)
-![Automation](https://img.shields.io/badge/Automation-n8n-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-Developer-3178C6)
-![Python](https://img.shields.io/badge/Python-AI%20Systems-3776AB)
-![Next.js](https://img.shields.io/badge/Next.js-Fullstack-black)
-![Voice AI](https://img.shields.io/badge/Voice-AI-purple)
-![Founder](https://img.shields.io/badge/Startup-Founder-red)
+Building at the intersection of **Vibe Coding, Vibe Marketing, Vibe Selling, and Vibe Calling** — turning ideas into automated systems at speed.
 
 ---
 
-Deep in **vibe-coding mode** — building AI-powered automation systems, voice agents, content engines, and scalable startups at speed.
+## 🧠 Core Projects
 
-I operate across:
-- AI Agents
-- Automation Workflows (n8n, RAG, orchestration)
-- Voice AI Systems
-- SaaS Products
-- Creator Ecosystems
-
----
-
-## 🌍 Core Ventures
-
-### 🧠 Voho AI  
-AI automation infrastructure company building:
-- Agent-worker architectures  
-- AI voice agents  
-- Orchestrators & content machines  
-- Enterprise AI deployments  
+- **Voho AI** — AI agents, voice systems, and automation infrastructure for scalable businesses.
+- **Culturly** — AI-first founder community focused on leverage, systems, and digital ownership.
+- **HandEX** — Experimental SaaS lab for automation tools and internal AI systems.
+- **PalsPlate** — Culture-driven social food-tech platform.
+- **Nadir Foundation** — Long-term education and impact infrastructure initiative.
+- **Skool Communities** — Vibe Club & AI ecosystems teaching builders how to automate income.
 
 ---
 
-### 🎓 Culturly  
-AI-first community & education platform focused on:
-- Startup founders  
-- Builders  
-- AI adoption  
-- Digital leverage  
+## ⚡ What I Actually Do
 
----
-
-### 🏗 HandEX  
-Tech & digital experimentation lab:
-- Early-stage SaaS experiments  
-- Internal automation systems  
-- Operational tooling  
-
----
-
-### 🍽 PalsPlate  
-Social & food-tech concept platform focused on:
-- Community dining  
-- Culture-based connections  
-- Digital-first food experiences  
-
----
-
-### 🌙 Nadir Foundation  
-Impact-driven initiative focused on:
-- Education access  
-- Community uplift  
-- Long-term infrastructure for growth  
-
----
-
-### 🏫 Skool Communities
-
-#### 🚀 Vibe Club
-AI automation & vibe-building community teaching:
-- VibeCoding  
-- VibeMarketing  
-- VibeSelling  
-- AI workflows  
-- Monetization systems  
-
-Free + Paid ecosystem.
-
----
-
-#### 🎯 Yar AI University  
-Structured AI education for:
-- Automation builders  
-- Startup founders  
-- AI content creators  
-
----
-
-## ⚙️ What I Build
-
-- AI content engines
-- Automated reel generation pipelines
-- Voice AI (Riyadhi dialect HR agents, booking agents)
-- AI newsletter systems
-- Shopify AI apps
-- Local + cloud AI deployments
-- RAG pipelines
-- Dev tooling
-- Workflow automations
-
----
-
-## 🔥 Current Focus
-
-- Scaling Voho AI infrastructure
-- Building AI-powered Saudi market solutions
-- Automation-first creator systems
-- Enterprise AI agents
-- Monetized AI communities
+- Vibe Coding → Build AI systems fast.
+- Vibe Marketing → Turn attention into authority.
+- Vibe Selling → Automate conversion.
+- Vibe Calling → Deploy AI voice agents that close.
 
 ---
 
 ## 🧩 Philosophy
 
-Speed > Perfection  
-Automation > Manual work  
 Systems > Hustle  
-Ownership > Dependency  
+Automation > Manual Work  
+Speed > Perfection  
+Leverage > Labor  
 
 ---
 
-## 📬 Let’s Connect
-
-- AI Collaborations
-- Saudi AI Partnerships
-- Automation Systems
-- Community Building
-- Venture Discussions
-
----
-
-_“Build once. Automate forever.”_
+_“Build once. Let systems sell forever.”_
