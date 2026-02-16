@@ -1,7 +1,7 @@
 # Hi, I'm Yar(Asfandyar) Malik 👋
 
 🚀 AI Founder | 🇩🇪 Germany ↔ 🇦🇪 UAE  
-🤖 AI Systems Builder | Automation Architect | Vibe Coding | Vibe Selling | Vibe Marketing 
+🤖 Vibe Coding | Vibe Selling | Vibe Marketing 
 
 ![AI](https://img.shields.io/badge/AI-Builder-black)
 ![Automation](https://img.shields.io/badge/Automation-n8n-blue)
