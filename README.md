@@ -1,6 +1,6 @@
 # Hi, I'm Yar 👋
 
-🚀 AI Founder | Vibe Coder | Daily VibeCoding Streams   
+🚀 AI Founder | Vibe Coder | Daily VibeCoding Streams on my Youtube
 
 Building at the intersection of **Vibe Coding, Vibe Marketing, Vibe Selling, and Vibe Calling** — turning ideas into automated systems at speed.
 
