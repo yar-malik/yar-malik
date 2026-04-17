@@ -8,6 +8,8 @@ Building at the intersection of **Vibe Coding, Vibe Marketing, Vibe Selling, and
 
 ## 🧠 Core Projects
 
+- **Vibeselling.com** — AI that sells your product automatically.
+- **Drums** — AI AI Ads
 - **Voho AI** — AI agents, voice systems, and automation infrastructure for scalable businesses.
 - **Culturly** — AI-first founder community focused on leverage, systems, and digital ownership.
 - **HandEX** — Experimental SaaS lab for automation tools and internal AI systems.
